@@ -2,6 +2,7 @@ structtagmapper
 ===============
 
 A utility for parsing a reflect.StructTag into map[string]string
+
 Based on the source code for reflect.StructTag.Get(key string)
 
 example usage:
